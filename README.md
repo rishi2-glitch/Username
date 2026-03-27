@@ -1,4 +1,4 @@
-# rishi2-glitcch
+# rishi2-glitch
 Learning backend
 
 # Hi 👋, I'm Rishi
