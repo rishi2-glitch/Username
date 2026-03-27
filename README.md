@@ -1,7 +1,7 @@
-# rishi2-glitch
+# Rishi Raj
 Learning backend
 
-# Hi 👋, I'm Rishi
+# Hi 👋, I'm rishi2-glitch
 
 💻 Backend Developer | FastAPI | SQL | Problem Solving
 
