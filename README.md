@@ -1,32 +1,32 @@
 # Rishi Raj
 Learning backend
 
-# Hi 👋, I'm rishi2-glitch
+# Hi, I'm rishi2-glitch
 
-💻 Backend Developer | FastAPI | SQL | Problem Solving
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science & Engineering Student  
-- 💡 Currently learning Backend Development  
-- 🧠 Practicing Data Structures & Algorithms  
-- ⚡ Love building real-world projects  
+ Backend Developer | FastAPI | SQL | Problem Solving
 
 ---
 
-## 🛠️ Skills
+##  About Me
 
-- 💻 Languages: C, C++, Python  
-- ⚙️ Backend: FastAPI  
-- 🗄️ Database: SQL  
-- 🛠️ Tools: Git, VS Code  
+-  Computer Science & Engineering Student  
+-  Currently learning Backend Development  
+-   Practicing Data Structures & Algorithms  
+-  Love building real-world projects  
+
+---
+
+##  Skills
+
+-  Languages: C, C++, Python  
+-  Backend: FastAPI  
+-  Database: SQL  
+-  Tools: Git, VS Code  
    
 
 ---
 
-## 📌 Projects
+##  Projects
 
 - 🔹   
 - 🔹  
@@ -34,19 +34,19 @@ Learning backend
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
-- 📚 Data Structures & Algorithms  
-- 🚀 Backend Development (FastAPI)  
-- 🧪 Building Projects  
+-  Data Structures & Algorithms  
+-  Backend Development (FastAPI)  
+-  Building Projects  
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/rishi2-glitch 
 - Email: rishiraj0512006@gmail.com  
 
 ---
 
-⭐ *“Learning by building and improving every day.”*
+ *“Learning by building and improving every day.”*
