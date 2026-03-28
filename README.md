@@ -1,5 +1,4 @@
-# Rishi Raj
-Learning backend
+
 
 # Hi, I'm rishi2-glitch
 
