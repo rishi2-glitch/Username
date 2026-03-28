@@ -12,7 +12,7 @@ Learning backend
 -  Computer Science & Engineering Student  
 -  Currently learning Backend Development  
 -   Practicing Data Structures & Algorithms  
--  Love building real-world projects  
+-   building real-world projects  
 
 ---
 
